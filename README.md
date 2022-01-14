@@ -12,3 +12,8 @@ Responsive Ruby Splash Screen of my terminal written in Ruby
  # Edit it, add your name and logo
 
  You can edit and add your name and logo just editing the splash string. 
+
+ # Set it up as splash screen of your terminal
+
+ First copy splash.rb to your home folder with the following command: `cp splash.rb ~/.splash.rb`
+ Edit your .bashrc or .zshrc and add to the last line `ruby .splash.rb`
