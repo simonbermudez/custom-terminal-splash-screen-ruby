@@ -1,6 +1,8 @@
 # custom-terminal-splash-screen-ruby
 Responsive Ruby Splash Screen of my terminal written in Ruby
 
+[Demo Screen](./images/demo.png)
+
 # How to run
 
 1) First make sure you have Ruby installed, if you don't have it, run `sudo apt install ruby-full`
